@@ -8,5 +8,14 @@ public class mainc {
 			System.out.println("My third java program");
 			System.out.println("fourth project");
 			System.out.println("My fifth project");
+			
+			int[] number = {1,2,3,4,5};
+			System.out.println(number.length);
+			
+			
+			
+			
+			
+			
 		}	
 }
